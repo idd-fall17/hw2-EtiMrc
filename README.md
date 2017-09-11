@@ -1,8 +1,10 @@
 Android Things empty project template
 =====================================
 
-Use this empty project as a template for your Android Things project.
-
+In this Git repository, you will find :
+  -  "HW2 - MARECAL Etienne - Text Entry Device.zip": compressed file containing the code of the app. 
+  -  "HW2 - Text Entry Device - MARECAL Etienne.pdf": writeup giving more details on the project and its realization.
+  -  "HW2 - video - MARECAL Etienne - Text Entry Device.zip": compressed file containing a demonstration video of the text entry device.
 
 Pre-requisites
 --------------
